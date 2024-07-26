@@ -1,0 +1,67 @@
+.color{
+    color: white
+}
+.option{
+    display: flex;
+    justify-content: space-between;
+    gap: 3rem;
+    
+    
+}
+.gym{
+    display: flex;
+    align-items: center;
+
+}
+.continer{
+    width: 90%;
+    margin: 5rem auto;
+}
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+.pri-btm{
+    color: white;
+    width: 100px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 84, 0);
+    border-radius: 8px;
+    border: 1px solid rgb(255, 84, 0) 
+}
+.pri{
+    color: rgb(255, 84, 0)
+}
+/*.new-one{
+    color: white;
+}*/
+.img-class{
+    display: flex;
+    gap: 40rem;
+    padding: 175px;
+}
+.new-btn{
+    color: white;
+    width: 175px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 84, 0);
+    border-radius: 8px;
+    border: 1px solid rgb(255, 84, 0) 
+
+
+}
+.btn{
+    display: flex;
+    gap: 1rem;
+}
+.satting{
+    margin-right: 200px;
+    
+}
