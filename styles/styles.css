@@ -21,6 +21,9 @@
     display: flex;
     justify-content: space-between;
     align-content: center;
+    background-color: rgb(17, 17, 17)
+    rgba(119, 119, 119, 0);
+    
 }
 .pri-btm{
     color: white;
@@ -43,6 +46,8 @@
     display: flex;
     gap: 40rem;
     padding: 175px;
+    
+    
 }
 .new-btn{
     color: white;
@@ -65,3 +70,67 @@
     margin-right: 200px;
     
 }
+.pro-new{
+    text-align: center;
+    color: white;
+    background-color: black;
+    
+}
+.pic-add{
+    display: flex;
+    gap: 4rem;
+    justify-content: center;
+}
+.box-ext{
+    color: white;
+    display: flex;
+}
+.new-other{
+    color: white;
+    background-color: rgb(230, 83, 60);
+    width: 443px;
+    height: 47px;
+    border-radius: 30px;
+    align-items: flex-start;
+    
+    
+
+    
+
+}
+.cret-cl{
+    color: white;
+    background-color: rgb(34, 34, 34);
+}
+.item-description{
+    border: 1px solid rgba(255, 255, 255, 0.5);
+  padding: 8px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  
+  color:rgba(255, 255, 255, 0.5);
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 340px
+  
+}
+.ne-clr{
+    color: white;
+}
+.bmi-chat{
+    color: white;
+}
+.bmi-cls{
+    color: rgba(255, 255, 255, 0.5);
+
+}
+
+
+    
+
+
+
+    
+
+
