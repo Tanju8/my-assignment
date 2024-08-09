@@ -80,6 +80,10 @@
     display: flex;
     gap: 4rem;
     justify-content: center;
+    border-radius: 50%;
+}
+
+
 }
 .box-ext{
     color: white;
@@ -125,7 +129,57 @@
     color: rgba(255, 255, 255, 0.5);
 
 }
+.pre-adding{
+    color:rgba(255, 255, 255, 0.5)
+}
+.in-line{
+    text-align: center;
+}
+table, th, td {
+    border: 1px solid;
+}
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
 
+  {
+    box-sizing: border-box;
+  }
+  
+  .row {
+    display: flex;
+  
+  
+  .column {
+    
+    height: 10%;
+    width: 10%;
+  }
+  .tas{
+    display: flex;
+  }
+  .point{
+    height: 10%;
+    width: 10%;
+
+  }
+  
+  .dip{
+    display: flex;
+    justify-content: center;
+  }
+  .new-destiny{
+    background-color: blue;
+  }
+  
+  
 
     
 
